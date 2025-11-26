@@ -7,7 +7,7 @@ Retrogressive thaw slumps (RTSs) are a form of permafrost degradation drawing in
 
 
 ![Trulli](figs/canada_slump.png)
-Ground photos of retrogressive thaw slumps (RTSs), as shown in [Huang et al. 2022](https://www.mdpi.com/2072-4292/14/12/2747).**RTS typically expand each year during the thaw season due to the melting of ground ice until they stabilize.**
+Ground photos of retrogressive thaw slumps (RTSs), as shown in [Huang et al. 2022](https://www.mdpi.com/2072-4292/14/12/2747). **RTS typically expand each year during the thaw season due to the melting of ground ice until they stabilize.**
 
 **We invite volunteers to check whether RTS are present in images or animations.**, We generated tens of thousands of results—containing both true and false positives—across the Arctic and sub-Arctic from multi-temporal and multi-source remote sensing data using AI techniques. 
 As shown in the screenshot and animations below, please inspect the images and GIFs on the left, then click Yes or No to indicate whether the result is a true or false positive, respectively. If the imagery is insufficient to determine the outcome (e.g., cloud cover or missing data), select Unknown.
@@ -30,9 +30,9 @@ The following are animations corresponding to the screenshot above. In these, a 
 3.	Close the window to stop at any time, or click Next to load another group of data.
 
 
-## Examples of true positives (Yes)
+## Examples of true positives (Yes):
 
-#### Example 1: multiple RTS expanding
+#### Example 1: multiple RTS expanding:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -62,7 +62,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 2: RTS expanding (bottom right)
+#### Example 2: RTS expanding (bottom right):
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -93,7 +93,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 
 
-#### Example 3: RTS expanding (top middle and top right)
+#### Example 3: RTS expanding (top middle and top right):
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -123,7 +123,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 4: RTS expanding (top middle)
+#### Example 4: RTS expanding (top middle):
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -153,7 +153,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 5: RTS expanding (middle)
+#### Example 5: RTS expanding (middle):
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -180,7 +180,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 
 
-#### Example 6: RTS expanding (bottom left)
+#### Example 6: RTS expanding (bottom left):
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -210,7 +210,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 7: RTS expanding (left middle)
+#### Example 7: RTS expanding (left middle):
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -240,7 +240,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 8: RTS expanding (middle)
+#### Example 8: RTS expanding (middle and top right):
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -270,9 +270,9 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-## Examples of false positives (No)
+## Examples of false positives (No):
 
-#### Example 1: outcrop, not RTS
+#### Example 1: outcrop, not RTS:
 <!-- Equal-size single row (no wrapping) -->
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
@@ -304,7 +304,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 
 
-#### Example 2: outcrops or bare land, not RTS
+#### Example 2: outcrops or bare land, not RTS:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -334,7 +334,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 3: bare land, mining, or construction (roads connected), likely not RTS
+#### Example 3: bare land, mining, or construction (roads connected), likely not RTS:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -365,7 +365,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 
 
-#### Example 4: bare land, mining, or construction (roads connected), likely not RTS
+#### Example 4: bare land, mining, or construction (roads connected), likely not RTS:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -391,7 +391,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 5: disturbances caused by river erosion, likely not RTS
+#### Example 5: disturbances caused by river erosion, likely not RTS:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -421,7 +421,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 6: disturbances caused by river erosion, likely not RTS
+#### Example 6: disturbances caused by river erosion, likely not RTS:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">

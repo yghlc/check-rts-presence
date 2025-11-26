@@ -26,6 +26,10 @@ rdir=$ygAlpha_host:/home/hlc/Data/rts_ArcticDEM_mapping/validation/select_by_rf_
 # gridid=88051610adfffff
 # outdir=FP_ex_6
 
+gridid=880f0bc5e1fffff
+outdir=FP_ex_7
+
+
 #################################################
 
 
@@ -56,8 +60,8 @@ rdir=$ygAlpha_host:/home/hlc/Data/rts_ArcticDEM_mapping/validation/select_by_rf_
 # gridid=881306b351fffff
 # outdir=TP_ex_7
 
-gridid=88131ed2b3fffff
-outdir=TP_ex_8
+# gridid=88131ed2b3fffff
+# outdir=TP_ex_8
 
 
 
