@@ -3,13 +3,13 @@
 
 ### Introduction
 
-Retrogressive thaw slumps (RTSs) are a form of permafrost degradation drawing increased attention due to their significant impacts on local environments, northern communities, ecosystems, and even global processes like the carbon cycle. With ongoing climate warming, both the frequency and extent of RTS have risen sharply in recent decades, as shown by numerous site-specific studies. However, comprehensive information about their regional patterns and long-term dynamics across the broader permafrost landscape remains limited, which hinders our ability to fully understand and predict permafrost degradation. Mapping RTS is challenging because they typically occur in remote, hard-to-access locations, are relatively small, and can resemble surrounding features in remote sensing data—making them difficult to distinguish both in the field and from satellite imagery.
+Retrogressive thaw slumps (RTSs) are a form of permafrost degradation drawing increased attention due to their significant impacts on local environments, northern communities, ecosystems, and even global processes like the carbon cycle. With ongoing climate warming, both the frequency and extent of RTSs have risen sharply in recent decades, as shown by numerous site-specific studies. However, comprehensive information about their regional patterns and long-term dynamics across the broader permafrost landscape remains limited, which hinders our ability to fully understand and predict permafrost degradation. Mapping RTS is challenging because they typically occur in remote, hard-to-access locations, are relatively small, and can resemble surrounding features in remote sensing data—making them difficult to distinguish both in the field and from satellite imagery.
 
 
 ![Trulli](figs/canada_slump.png)
-Ground photos of retrogressive thaw slumps (RTSs), as shown in [Huang et al. 2022](https://www.mdpi.com/2072-4292/14/12/2747). **RTS typically expand each year during the thaw season due to the melting of ground ice until they stabilize.**
+Ground photos of retrogressive thaw slumps (RTSs), as shown in [Huang et al. 2022](https://www.mdpi.com/2072-4292/14/12/2747). **RTSs typically expand each year during the thaw season due to the melting of ground ice until they stabilize.**
 
-**We invite volunteers to check whether RTS are present in images or animations.** We generated tens of thousands of results—containing both true and false positives—across the Arctic and sub-Arctic from multi-temporal and multi-source remote sensing data using AI techniques. 
+**We invite volunteers to check whether RTSs are present in images or animations.** We generated tens of thousands of results—containing both true and false positives—across the Arctic and sub-Arctic from multi-temporal and multi-source remote sensing data using AI techniques. 
 As shown in the screenshot and animations below, please inspect the images and GIFs on the left, then click Yes or No to indicate whether the result is a true or false positive, respectively. If the imagery is insufficient to determine the outcome (e.g., cloud cover or missing data), select Unknown.
 ![fig_1](figs/screenshot-of-a-row.png)^[s2: Sentinel-2 RGB images; s2nir: Sentinel-2 images with the near-infrared band replacing the red band; comImg: composite images derived from ArcticDEM; samElev: elevation differences derived from ArcticDEM. For comImg and samElev, see [Huang et at., 2023](https://doi.org/10.1016/j.isprsjprs.2023.10.008) for more information. Each image or animation covers a region of around 1.1 km by 1.1 km. ] 
 
@@ -272,7 +272,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 ## Examples of false positives (No):
 
-#### Example 1, outcrop, not RTS:
+#### Example 1, outcrop, not RTSs:
 <!-- Equal-size single row (no wrapping) -->
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
@@ -304,7 +304,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 
 
-#### Example 2, outcrops or bare land, not RTS:
+#### Example 2, outcrops or bare land, not RTSs:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -334,7 +334,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 3, bare land, mining, or construction (roads connected), likely not RTS:
+#### Example 3, bare land, mining, or construction (roads connected), likely not RTSs:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -365,7 +365,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 
 
-#### Example 4, bare land, mining, or construction (roads connected), likely not RTS:
+#### Example 4, bare land, mining, or construction (roads connected), likely not RTSs:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -391,7 +391,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 5, disturbances caused by river erosion, likely not RTS:
+#### Example 5, disturbances caused by river erosion, likely not RTSs:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -421,7 +421,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 </div>
 
 
-#### Example 6, disturbances caused by river erosion, likely not RTS:
+#### Example 6, disturbances caused by river erosion, likely not RTSs:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -450,7 +450,7 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 </div>
 
-#### Example 7, bare land, mining, or construction (roads connected), likely not RTS:
+#### Example 7, bare land, mining, or construction (roads connected), not RTSs:
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
