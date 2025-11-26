@@ -18,8 +18,8 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 <div style="display:flex; gap:8px; align-items:center; justify-content:center; flex-wrap:wrap;">
 <img src="figs/screenshot-of-a-row_gifs/xGIF_id880d65586dfffff.gif" alt="GIF x" style="max-width:100%; height:auto; flex:1 1 100px; object-fit:contain;">
-<img src="figs/screenshot-of-a-row_gifs/zGIF_id880d65586dfffff.gif" alt="GIF z" style="max-width:100%; height:auto; flex:1 1 100px; object-fit:contain;">
 <img src="figs/screenshot-of-a-row_gifs/yGIF_id880d65586dfffff.gif" alt="GIF y" style="max-width:100%; height:auto; flex:1 1 100px; object-fit:contain;">
+<img src="figs/screenshot-of-a-row_gifs/zGIF_id880d65586dfffff.gif" alt="GIF z" style="max-width:100%; height:auto; flex:1 1 100px; object-fit:contain;">
 </div>
 
 
