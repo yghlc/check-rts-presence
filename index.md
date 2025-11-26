@@ -450,6 +450,31 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 </div>
 
+#### Example 7, bare land, mining, or construction (roads connected), likely not RTS:
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_7/comImg_id880f0bc5e1fffff_625.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_7/samElev_id880f0bc5e1fffff_625.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_7/s2nir_2024_id880f0bc5e1fffff_625.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_7/xGIF_id880f0bc5e1fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_7/zGIF_id880f0bc5e1fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
 
 ### Contact
 For bugs, comments, suggestions, or questions, please contact: [Lingcao Huang](https://yghlc.github.io/lingcaohuang) (lingcaohuang@cuhk.edu.hk).
