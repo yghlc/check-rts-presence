@@ -33,10 +33,423 @@ The following are annimations for the screenshot above. In the animations, a lan
 
 ## Examples of true positives (Yes)
 
+#### Example 1: the following images and annimations of several RTSs were expanding 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_1/comImg_id880346716dfffff_2371.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_1/samElev_id880346716dfffff_2371.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_1/s2nir_2024_id880346716dfffff_2371.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_1/xGIF_id880346716dfffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_1/yGIF_id880346716dfffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_1/zGIF_id880346716dfffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+#### Example 2: the following images and annimations of an RTS expanding (right-bottom) 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_2/comImg_id88028b834dfffff_2154.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_2/samElev_id88028b834dfffff_2154.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_2/s2nir_2024_id88028b834dfffff_2154.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_2/xGIF_id88028b834dfffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_2/yGIF_id88028b834dfffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_2/zGIF_id88028b834dfffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+
+#### Example 3: the following images and annimations of RTS expanding (top middle, and top right) 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_3/comImg_id8802f254c1fffff_6916.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_3/samElev_id8802f254c1fffff_6916.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_3/s2nir_2024_id8802f254c1fffff_6916.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_3/xGIF_id8802f254c1fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_3/yGIF_id8802f254c1fffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_3/zGIF_id8802f254c1fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+#### Example 4: the following images and annimations of RTS expanding (top middle) 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_4/comImg_id88029b4011fffff_3135.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_4/samElev_id88029b4011fffff_3135.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_4/s2nir_2024_id88029b4011fffff_3135.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_4/xGIF_id88029b4011fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_4/yGIF_id88029b4011fffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_4/zGIF_id88029b4011fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+#### Example 5: the following images and annimations of RTS expanding (middle) 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_5/comImg_id880d6431bbfffff_3701.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_5/samElev_id880d6431bbfffff_3701.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_5/s2nir_2024_id880d6431bbfffff_3701.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_5/xGIF_id880d6431bbfffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_5/zGIF_id880d6431bbfffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+
+#### Example 6: the following images and annimations of RTS expanding (left bottom) 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_6/comImg_id88022d6341fffff_1607.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_6/samElev_id88022d6341fffff_1607.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_6/s2nir_2024_id88022d6341fffff_1607.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_6/xGIF_id88022d6341fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_6/yGIF_id88022d6341fffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_6/zGIF_id88022d6341fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+#### Example 7: the following images and annimations of RTS expanding (left middle) 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_7/comImg_id881306b351fffff_811.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_7/samElev_id881306b351fffff_811.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_7/s2nir_2024_id881306b351fffff_811.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_7/xGIF_id881306b351fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_7/yGIF_id881306b351fffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_7/zGIF_id881306b351fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+#### Example 8: the following images and annimations of RTS expanding (middle) 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_8/comImg_id88131ed2b3fffff_1640.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_8/samElev_id88131ed2b3fffff_1640.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_8/s2nir_2024_id88131ed2b3fffff_1640.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_8/xGIF_id88131ed2b3fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_8/yGIF_id88131ed2b3fffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_8/zGIF_id88131ed2b3fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
 
 ## Examples of false positives (No)
 
+#### Example 1: the following images and annimations shows an outcrop, not RTS. 
+<!-- Equal-size single row (no wrapping) -->
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_1/comImg_id88172bbae5fffff_967.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_1/samElev_id88172bbae5fffff_967.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_1/s2nir_2024_id88172bbae5fffff_967.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_1/xGIF_id88172bbae5fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_1/yGIF_id88172bbae5fffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_1/zGIF_id88172bbae5fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+
+#### Example 2: the following images and annimations show several outcrops or bareland, not RTS. 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_2/comImg_id8804db6aa3fffff_5247.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_2/samElev_id8804db6aa3fffff_5247.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_2/s2nir_2024_id8804db6aa3fffff_5247.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_2/xGIF_id8804db6aa3fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_2/yGIF_id8804db6aa3fffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_2/zGIF_id8804db6aa3fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+#### Example 3: the following images and annimations show bare land, mining location, or construction places due to human activties (roads connected to the place) , likely not RTS. 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_3/comImg_id880f9326c3fffff_1636.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_3/samElev_id880f9326c3fffff_1636.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_3/s2nir_2024_id880f9326c3fffff_1636.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_3/xGIF_id880f9326c3fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_3/yGIF_id880f9326c3fffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_3/zGIF_id880f9326c3fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+
+#### Example 4: the following images and annimations show bare land, mining location, or construction places due to human activties (roads connected to the place) , likely not RTS. 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_4/comImg_id8813118ac1fffff_2600.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_4/samElev_id8813118ac1fffff_2600.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_4/s2nir_2024_id8813118ac1fffff_2600.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_4/xGIF_id8813118ac1fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_4/zGIF_id8813118ac1fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+#### Example 5: the following images and annimations show disturbances casued by river erosion, likely not RTS. 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_5/comImg_id880b6bb1b9fffff_4339.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_5/samElev_id880b6bb1b9fffff_4339.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_5/s2nir_2024_id880b6bb1b9fffff_4339.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_5/xGIF_id880b6bb1b9fffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_5/yGIF_id880b6bb1b9fffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>  
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_5/zGIF_id880b6bb1b9fffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
+
+#### Example 6: the following images and annimations show disturbances casued by river erosion, likely not RTS. 
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_6/comImg_id88051610adfffff_5071.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_6/samElev_id88051610adfffff_5071.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_6/s2nir_2024_id88051610adfffff_5071.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_6/xGIF_id88051610adfffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_6/yGIF_id88051610adfffff.gif" alt="GIF Y" style="width:100%; height:100%; object-fit:contain;">
+  </div>  
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/FP_ex_6/zGIF_id88051610adfffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
 
 
 ### Contact
