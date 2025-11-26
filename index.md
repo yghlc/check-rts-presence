@@ -3,37 +3,36 @@
 
 ### Introduction
 
-Retrogressive thaw slumps (RTS) represent a form of permafrost degradation that is drawing increased attention due to its significant impacts on local environments, northern populations, ecosystems, and even global processes like the carbon cycle. With ongoing climate warming, both the frequency and extent of RTSs have risen sharply in recent decades, as shown by numerous site-specific studies. However, there is still a lack of comprehensive information about their regional patterns and long-term dynamics across the broader permafrost landscape, which limits our ability to fully understand and predict permafrost degradation. Mapping RTSs is challenging because they typically occur in remote, difficult-to-access locations, are relatively small in size, and often resemble surrounding features in remote sensing data, making them hard to distinguish both in the field and from satellite imagery.
+Retrogressive thaw slumps (RTSs) are a form of permafrost degradation drawing increased attention due to their significant impacts on local environments, northern communities, ecosystems, and even global processes like the carbon cycle. With ongoing climate warming, both the frequency and extent of RTS have risen sharply in recent decades, as shown by numerous site-specific studies. However, comprehensive information about their regional patterns and long-term dynamics across the broader permafrost landscape remains limited, which hinders our ability to fully understand and predict permafrost degradation. Mapping RTS is challenging because they typically occur in remote, hard-to-access locations, are relatively small, and can resemble surrounding features in remote sensing data—making them difficult to distinguish both in the field and from satellite imagery.
 
 
 ![Trulli](figs/canada_slump.png)
-Ground photos of retrogressive thaw slumps (RTS), as shown in [Huang et al. 2022](https://www.mdpi.com/2072-4292/14/12/2747).**RTS expands each year during the thawing season due to the melting of ground ice until it stabilizes**
+Ground photos of retrogressive thaw slumps (RTSs), as shown in [Huang et al. 2022](https://www.mdpi.com/2072-4292/14/12/2747).**RTS typically expand each year during the thaw season due to the melting of ground ice until they stabilize.**
 
-**We would like to invite people to check if any RTSs show up in images or animations**, as we genereated tens of thousands results containing true and false positives in the Arctic and sub-Arctic from multi-temporal and multi-source remote sensing data using AI techniques. 
-As shown in the following screenshot and animations, we need people to inspect these images and animations (GIF files) on the left, then click Yes or No if they are true or false postives, respectively. If the images are not sufficient to determinte the results, such as cloud cover or missing data, please select Unknown. 
-![fig_1](figs/screenshot-of-a-row.png)^[s2: Sentinel-2 RGB images, s2nir: S2 images with near infrared bands replacing Red bands,
-comImg: composited images derived from ArcticDEM, samElev: elevation difference derived from ArcticDEM. For comImg and samElev, please refer to [Huang et at., 2023](https://doi.org/10.1016/j.isprsjprs.2023.10.008) for more information.] 
+**We invite volunteers to check whether RTS are present in images or animations.**, We generated tens of thousands of results—containing both true and false positives—across the Arctic and sub-Arctic from multi-temporal and multi-source remote sensing data using AI techniques. 
+As shown in the screenshot and animations below, please inspect the images and GIFs on the left, then click Yes or No to indicate whether the result is a true or false positive, respectively. If the imagery is insufficient to determine the outcome (e.g., cloud cover or missing data), select Unknown.
+![fig_1](figs/screenshot-of-a-row.png)^[s2: Sentinel-2 RGB images; s2nir: Sentinel-2 images with the near-infrared band replacing the red band; comImg: composite images derived from ArcticDEM; samElev: elevation differences derived from ArcticDEM. For comImg and samElev, see [Huang et at., 2023](https://doi.org/10.1016/j.isprsjprs.2023.10.008) for more information. Each image or animation covers a region of around 1.1 km by 1.1 km. ] 
 
 
-The following are annimations for the screenshot above. In the animations, a landslide like feature connecting to a like and is expanding annually, from the elevation derived data (comImg and samElev), we can see clearly elevation reduction and its expansion, so this is a true positive (Yes). 
-<!-- Responsive three-GIF row -->
+The following are animations corresponding to the screenshot above. In these, a landslide-like feature connected to a lake expands annually. From the elevation-derived data (comImg and samElev), you can clearly see elevation reduction and expansion—this is a true positive (Yes).
+
 <div style="display:flex; gap:8px; align-items:center; justify-content:center; flex-wrap:wrap;">
-  <img src="figs/screenshot-of-a-row_gifs/xGIF_id880d65586dfffff.gif" alt="GIF x" style="max-width:100%; height:auto; flex:1 1 100px; object-fit:contain;">
-  <img src="figs/screenshot-of-a-row_gifs/zGIF_id880d65586dfffff.gif" alt="GIF z" style="max-width:100%; height:auto; flex:1 1 100px; object-fit:contain;">
-  <img src="figs/screenshot-of-a-row_gifs/yGIF_id880d65586dfffff.gif" alt="GIF y" style="max-width:100%; height:auto; flex:1 1 100px; object-fit:contain;">
+<img src="figs/screenshot-of-a-row_gifs/xGIF_id880d65586dfffff.gif" alt="GIF x" style="max-width:100%; height:auto; flex:1 1 100px; object-fit:contain;">
+<img src="figs/screenshot-of-a-row_gifs/zGIF_id880d65586dfffff.gif" alt="GIF z" style="max-width:100%; height:auto; flex:1 1 100px; object-fit:contain;">
+<img src="figs/screenshot-of-a-row_gifs/yGIF_id880d65586dfffff.gif" alt="GIF y" style="max-width:100%; height:auto; flex:1 1 100px; object-fit:contain;">
 </div>
 
 
 
 ## How to
-1.	Log in to [https://thawslump.yghlc.org/](https://thawslump.yghlc.org/) using your email address. We suggest using a computer with a large screen for this task.
-2.	After login, you can start to check RTS presences. By default, the web-system will show ten rows of images and annimations, please check these images and annimations, then click "Yes", "No", and "Unknown" based on you observation. 
-3.	Close the window if you want to stop, click "Next" for another groups of mapping results.
+1.	Log in to [https://thawslump.yghlc.org/](https://thawslump.yghlc.org/) using your email address. We recommend using a computer with a large screen.
+2.	After logging in, you can start checking RTS presence. By default, the system shows ten rows of images and animations. Review each set and click Yes, No, or Unknown based on your observations.
+3.	Close the window to stop at any time, or click Next to load another group of data.
 
 
 ## Examples of true positives (Yes)
 
-#### Example 1: the following images and annimations of several RTSs were expanding 
+#### Example 1: multiple RTS expanding
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -63,7 +62,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 </div>
 
 
-#### Example 2: the following images and annimations of an RTS expanding (right-bottom) 
+#### Example 2: RTS expanding (bottom right)
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -94,7 +93,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 
 
 
-#### Example 3: the following images and annimations of RTS expanding (top middle, and top right) 
+#### Example 3: RTS expanding (top middle and top right)
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -124,7 +123,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 </div>
 
 
-#### Example 4: the following images and annimations of RTS expanding (top middle) 
+#### Example 4: RTS expanding (top middle)
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -154,7 +153,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 </div>
 
 
-#### Example 5: the following images and annimations of RTS expanding (middle) 
+#### Example 5: RTS expanding (middle)
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -181,7 +180,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 
 
 
-#### Example 6: the following images and annimations of RTS expanding (left bottom) 
+#### Example 6: RTS expanding (bottom left)
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -211,7 +210,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 </div>
 
 
-#### Example 7: the following images and annimations of RTS expanding (left middle) 
+#### Example 7: RTS expanding (left middle)
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -241,7 +240,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 </div>
 
 
-#### Example 8: the following images and annimations of RTS expanding (middle) 
+#### Example 8: RTS expanding (middle)
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -273,7 +272,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 
 ## Examples of false positives (No)
 
-#### Example 1: the following images and annimations shows an outcrop, not RTS. 
+#### Example 1: outcrop, not RTS
 <!-- Equal-size single row (no wrapping) -->
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
@@ -305,7 +304,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 
 
 
-#### Example 2: the following images and annimations show several outcrops or bareland, not RTS. 
+#### Example 2: outcrops or bare land, not RTS
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -335,7 +334,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 </div>
 
 
-#### Example 3: the following images and annimations show bare land, mining location, or construction places due to human activties (roads connected to the place) , likely not RTS. 
+#### Example 3: bare land, mining, or construction (roads connected), likely not RTS
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -366,7 +365,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 
 
 
-#### Example 4: the following images and annimations show bare land, mining location, or construction places due to human activties (roads connected to the place) , likely not RTS. 
+#### Example 4: bare land, mining, or construction (roads connected), likely not RTS
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -392,7 +391,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 </div>
 
 
-#### Example 5: the following images and annimations show disturbances casued by river erosion, likely not RTS. 
+#### Example 5: disturbances caused by river erosion, likely not RTS
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -422,7 +421,7 @@ The following are annimations for the screenshot above. In the animations, a lan
 </div>
 
 
-#### Example 6: the following images and annimations show disturbances casued by river erosion, likely not RTS. 
+#### Example 6: disturbances caused by river erosion, likely not RTS
 <div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
 
   <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
@@ -453,4 +452,4 @@ The following are annimations for the screenshot above. In the animations, a lan
 
 
 ### Contact
-Contact for any bugs, comments, suggestions, and questions: [Lingcao Huang](https://yghlc.github.io/lingcaohuang) (lingcaohuang@cuhk.edu.hk).
+For bugs, comments, suggestions, or questions, please contact: [Lingcao Huang](https://yghlc.github.io/lingcaohuang) (lingcaohuang@cuhk.edu.hk).
