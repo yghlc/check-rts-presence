@@ -269,6 +269,31 @@ The following are animations corresponding to the screenshot above. In these, a 
 
 </div>
 
+#### Example 9, RTS expanding (middle):
+<div style="display:flex; flex-wrap:nowrap; gap:8px; align-items:center;">
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_9/comImg_id880d65b83bfffff_23.png" alt="Composite image" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_9/samElev_id880d65b83bfffff_23.png" alt="Elevation" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_9/s2nir_2024_id880d65b83bfffff_23.png" alt="S2 NIR 2024" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_9/xGIF_id880d65b83bfffff.gif" alt="GIF X" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+  <div style="flex:0 0 200px; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:#f7f7f7; overflow:hidden;">
+    <img src="figs/TP_ex_9/zGIF_id880d65b83bfffff.gif" alt="GIF Z" style="width:100%; height:100%; object-fit:contain;">
+  </div>
+
+</div>
+
 
 ## Examples of false positives (No):
 
